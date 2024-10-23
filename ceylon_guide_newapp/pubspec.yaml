@@ -1,0 +1,41 @@
+name: ceylon_guide_newapp
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_maps_flutter: ^2.2.0  # Use the correct package name here
+  url_launcher: ^6.3.1 # Keep this line as it is
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/images/background_image.jpeg
+    - lib/assets/images/signin_icon.png
+    - lib/assets/images/signup_icon.png
+    - lib/assets/images/signinpagevector.jpeg
+    - lib/assets/images/signuppagevector.jpeg
+    - lib/assets/images/forgotpasswordvector.jpeg
+    - lib/assets/images/locationvector.jpeg
+    - lib/assets/images/mapvector.jpeg
+    - lib/assets/images/calculatorvector.jpeg
+    - lib/assets/images/taxivector.jpeg
+    - lib/assets/images/suppliervector.jpeg
+    - lib/assets/images/guidevector.jpeg
+    - lib/assets/images/hotelvector.jpeg
+    - lib/assets/images/badullamap.png
+
