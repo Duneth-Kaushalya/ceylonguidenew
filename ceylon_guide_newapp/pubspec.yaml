@@ -37,5 +37,11 @@ flutter:
     - lib/assets/images/suppliervector.jpeg
     - lib/assets/images/guidevector.jpeg
     - lib/assets/images/hotelvector.jpeg
+    - lib/assets/images/ratingsvector.jpeg
     - lib/assets/images/badullamap.png
+    - lib/assets/images/rawanafalls_image.jpeg
+    - lib/assets/images/ninearch_image.jpg
+    - lib/assets/images/megazipline_image.jpeg
+    - lib/assets/images/teafactory_image.jpeg
+    - lib/assets/images/temple_image.jpg
 
